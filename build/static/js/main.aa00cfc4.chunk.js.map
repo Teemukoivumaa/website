@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.js"],"names":["Component"],"mappings":"6LAEkBA,Y","file":"static/js/main.aa00cfc4.chunk.js","sourcesContent":["import React, { Component } from 'react'\r\n\r\nclass App extends Component {\r\n  render() {\r\n    return (\r\n      <div className=\"container\">\r\n\r\n      </div>\r\n    )\r\n  }\r\n}\r\n\r\nexport default App\r\n"],"sourceRoot":""}
